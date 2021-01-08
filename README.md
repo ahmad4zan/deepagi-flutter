@@ -1,4 +1,4 @@
-# testbursa
+# deepagi-flutter
 
 A sample project utilising DEEPAGI api
 
